@@ -1,4 +1,4 @@
-![Image](intro_rmm.png)
+![image](intro_rmm.png)
 
 The Automated Market Maker (AMM) revolutionized decentralized exchange. Not because it offered a better mechanism for matching a buyer and seller, but because it was the buyer and seller.
 
